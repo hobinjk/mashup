@@ -1,0 +1,21 @@
+We explore the possibility of creating a novel carbonbased organic synthesis pipeline ending in the production of a generalizably edible solid state mixture. By following current best practices in the field of synthesis, we were able to duplicate best-effort results despite encountering several difficulties. We contribute our results and products to our fellow researchers and the academic public to further opportunities for future work.
+1. Introduction
+We set out to develop a novel process to broaden the fields that the Hobin Research Group for the Development of Sucrose-Enriched Product Synthesis is capable of performing worthwhile research in. The characteristics for a target process were for it to be novel, complex, and sucroserich. As our group focuses on syntheses involving high concentrations of xantheose, recipes without this characteristic were favored in the survey.
+2. Related Work
+Initial research of the surrounding body of work revealed the process of Ruperti to be a tested yet suitablty novel synthesis with capabilities of performing adequately [3]. While works of Perelman were also intriguing [2], the novel and xantheose-sparse nature of Ruperti’s research secured its position as the basis for this study.
+3. Approach
+Ruperti covers the basis of this research in her paper. Most notably, her process does not include a conventional polysaccharide-based outer coating of the product, allowing this group’s work to focus on the difficult production of the product interior [3]. Ruperti’s process also introduces the incorporation of a novel air-albumin suspension within the product. However, some deviations and improvements were made to increase the scientific relevance of the work.
+The lack of specification of the volume of the second sucrose moiety led to a lengthy and intensive conversion process. After conversion, we found the missing figure to be 88.7206 mL of reagent.
+Following the production of the initial synthesis, we began the intensive heat-treatment process. The solution required submersal in a water bath to properly conduct heat and produce high levels of atmospheric humidity. However, at this point our research hit a complication due to faulty preparation of equipment for this bath. Inspired by the proposed solutions of Nili et al., we developed a novel treatment course for resolving the overhydration of the sample [1]. While single-unit tests suggest that the damage to material properties is now minimal, we await human trials to determine the full extent of the overhydration caused in this situation.
+Figure 1. Results of “Which is the most proper season for cheesecake?”
+Finally, as a precaution to introduction of our research before COUHES we created a simple investigative questionnaire to gauge potential human reactions to the introduction of the synthesized product. We noticed based on the results of the survey that the human subjects are “ Absolutely!!! ” interested in synthesis production in our current
+James Hobin MIT
+77 Massachusetts Ave. hobinjk@mit.edu
+ 17
+Winter academic season. These results are both significant within standard levels.
+Figure 2. Results of “Do you like cheesecake?”
+4. Experimental Results
+Our initial self-tested results are positive but lacking corroboration. The results were characterized by proper sucrose levels. The pH observed in the sample is in accordance with expected values. Unfortunately, our work’s inability to perfect the dihydrogen monoxide isolation platform caused a slight deviation from expected material properties. Future work will look for COUHES approval for extensive human testing.
+5. Conclusion
+We would like to respond to our fellow academic’s allegations that we “rigged it” with the following statement: Cheesecake is pretty great.
+
