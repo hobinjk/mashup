@@ -4,7 +4,7 @@ var outputElt = document.getElementById('output');
 var doTransformButton = document.getElementById('do-transform');
 doTransformButton.addEventListener('click', function() {
   doTransform();
-  doTransformButton.value = Util.randomChoice([
+  doTransformButton.textContent = Util.randomChoice([
     'Mash \'em up!',
     'Form an unholy union',
     'Will it blend?',
