@@ -19,7 +19,7 @@ function Markov(maxMarkovN, text, preserveNewlines) {
     for (var i = 0; i < words.length; i++) {
       var graphKey = this.getKey(words, i, markovN);
       var outputWord = words[i];
-      if (!wordGraph[graphKey]) {
+      if (!wordGraph[graphKey] || !(wordGraph[graphKey] instanceof Array)) {
         wordGraph[graphKey] = [];
       }
       // Note that this preserves punctuation in an iffy way
