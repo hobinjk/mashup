@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>Rhymify</title>
+
+    <!-- materialize css -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <div class="container">
+      <form action="">
+        <div class="row">
+          <div class="input-field col s6">
+            <textarea id="text-a" class="materialize-textarea"></textarea>
+            <label for="text-a" id="output-a-label">Blue</label>
+          </div>
+          <div class="input-field col s6">
+            <textarea id="text-b" class="materialize-textarea"></textarea>
+            <label for="text-a" id="output-b-label">Red</label>
+          </div>
+        </div>
+        <div class="row">
+          <div class="input-field col s6">
+            <input type="checkbox" id="preserve-newlines"/>
+            <label for="preserve-newlines">Preserve newlines</label>
+          </div>
+          <div class="input-field col s6">
+            <a class="waves-effect waves-light btn" id="do-transform">Mash 'em up!</a>
+          </div>
+        </div>
+      </form>
+      <div class="row">
+        <div id="output"></div>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
+    <script src="Util.js"></script>
+    <script src="Markov.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
